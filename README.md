@@ -2,6 +2,8 @@
 
 <!--
 **Anshikasinha18/Anshikasinha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey!! This is Anshika Sinha (20BCE10703) from CSE Core, doing my UG course from VIT Bhopal University.
+
 
 Here are some ideas to get you started:
 
