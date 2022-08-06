@@ -5,8 +5,8 @@
 <a href="https://twitter.com/AnshikaSinha18">
   <img align="left" alt="Anshika's Twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
 </a>
-<a href="https://www.linkedin.com/in/anshika-sinha-7b6260209/">
-  <img align="left" alt="Anshika's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+<a href="www.linkedin.com/in/anshika-sinha18">
+  <img align="left" alt="Anshika's Linkdein" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" />
 </a>
 <a href="https://github.com/Anshikasinha18">
   <img align="left" alt="Anshika's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
